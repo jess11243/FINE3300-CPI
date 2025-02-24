@@ -1,2 +1,2 @@
 # FINE3300-CPI
-Form a Dataframe using data files from Statistic Canada's monthly recorded CPI levels in 2024
+Form a Dataframe using data files from Statistic Canada's monthly recorded CPI levels in 2024. The code will be able to combine all 11 dataframes into a singular dataframe with the column headings Item, Month, Juridiction, and CPI. It will also report the average month-to-month change in food, shelter, and all-items excluding food and energy per province / Canada. The annual change in CPI will be computed.
